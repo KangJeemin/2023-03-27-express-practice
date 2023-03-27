@@ -1,0 +1,22 @@
+{
+  "name": "2023-03-27-express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangJeemin/2023-03-27-express-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangJeemin/2023-03-27-express-practice/issues"
+  },
+  "homepage": "https://github.com/KangJeemin/2023-03-27-express-practice#readme",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1"
+  }
+}
